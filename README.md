@@ -9,7 +9,7 @@
 
 <h3 style="color:green;font-weight:700;font-size:20px"> 
    Repositories below are private,
-   Inorder to have access to them you can contact me through my email 
+   Inorder to access it you can contact me through my email 
    
 </h3>
 
